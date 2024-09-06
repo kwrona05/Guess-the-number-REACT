@@ -1,6 +1,7 @@
 import EasyBtn from "./button-easy"
 
 function App() {
+  if(numberToGuess > )
   return(
     <div className="container">
       <header>
