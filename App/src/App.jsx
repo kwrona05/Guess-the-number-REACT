@@ -1,3 +1,5 @@
+import EasyBtn from "./button-easy"
+
 function App() {
   return(
     <div className="container">
@@ -6,7 +8,7 @@ function App() {
         <p>Can you beat the computer?</p>
       </header>
       <menu className="buttons">
-        <button className="easy">Easy</button>
+        <EasyBtn></EasyBtn>
         <button className="medium">Medium</button>
         <button className="hard">Hard</button>
       </menu>
