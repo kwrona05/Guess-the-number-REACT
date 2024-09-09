@@ -1,7 +1,7 @@
 import EasyBtn from "./button-easy"
 
 function App() {
-  if(numberToGuess > )
+  const yourNumber = input.value
   return(
     <div className="container">
       <header>
